@@ -27,8 +27,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 
 /*
-Program to print the text “display screen of any search engine”.
-Developed by: Kumaran.B<br>
+Program to print the text “display screen of any search engine”.<br>
+Developed by: Kumaran.B <br>
 Registeration Number : 212220230026
 */
 
@@ -116,7 +116,7 @@ public class MainActivity extends Activity {
 
 
 
-## <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>OUTPUT
+## OUTPUT
 
 ![Screenshot (195)](https://user-images.githubusercontent.com/75243072/169353609-f87de63f-1fe8-4354-ba36-3013dea89b3a.png)
 
@@ -125,5 +125,5 @@ public class MainActivity extends Activity {
 
 
 
-## RESULT
+## <br><br><br><br><br><br><br><br><br><br> RESULT
 Thus a Simple Android Application develop a program to create a first display screen of any search engine using AutoComplete TextView in Android Studio is developed and executed successfully.
